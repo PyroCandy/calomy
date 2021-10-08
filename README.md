@@ -1,8 +1,8 @@
-# studio_projects
+# Calomy
 
 A new Flutter project.
 
-## Getting Started
+## A mini-project For Engineering Sem-5
 
 This project is a starting point for a Flutter application.
 
